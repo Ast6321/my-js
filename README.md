@@ -8,7 +8,7 @@ so i have tested and practiced the git commands
 
 
 <pre>
-today --2/17/2026
+today -- 17/02/2026
 
  i have attend a meating with tarun sir
  after that i connect with kapil to tell him about variables
