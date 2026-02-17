@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/my-js/practice-conditionals/assets/cssfile/style.css">
+</head>
+<body>
+       
+    
+    
+    <h1 class="common-heading">first html with integrating js </h1>
+   
+ 
+     <div class="calculatorbody" style="border: 1px solid black; margin: auto; padding: 5px 16px; text-transform: uppercase; ">
+        <h3 style="text-align: center;">simple calculator</h3>
+        <div style=" display:flex; justify-content: center; text-align: center; gap: 20px; flex-wrap: wrap; flex-shrink: 0; ">
+            <div>
+                <label for="num1" style="display: block;">enter first number</label>
+                <input type="number" id="num1" value="0"
+                    style="width: 70px; height: 50px; border: none; outline:none; border-bottom: 2px solid green; font-size: x-large; text-align: center;">
+            </div>
+
+            <div>
+                <label for="num2" style="display: block;">enter second number</label>
+                <input type="number" id="num2" value="0"
+                    style="width: 70px; height: 50px; border: none; outline:none; border-bottom: 2px solid green; font-size: x-large; text-align: center;">
+            </div>
+
+        </div>
+
+        <div
+            style="margin: 15px 0px; display: flex; justify-content: center; gap: 2px; flex-wrap: wrap; flex-shrink: 0; ">
+            <div>
+                <input type="radio" name="operation" id="add" value="add">
+                <label for="add">Add</label>
+            </div>
+
+            <div>
+                <input type="radio" name="operation" id="subtract" value="subtract">
+                <label for="subtract">Subtract</label>
+            </div>
+
+            <div>
+                <input type="radio" name="operation" id="multiply" value="multiply">
+                <label for="multiply">Multiply</label>
+            </div>
+
+            <div>
+                <input type="radio" name="operation" id="divide" value="divide">
+                <label for="divide">Divide</label>
+            </div>
+
+        </div>
+
+
+
+        <button onclick="calculate()"
+            style=" display:block; padding: 10px; margin: auto; background:linear-gradient(rgb(55, 55, 121),rgb(240, 107, 107),rgb(160, 241, 160),rgb(224, 224, 147),rgb(207, 191, 191)) ; color: rgb(6, 10, 252); font-size: larger;">Calculate</button>
+        <h3 style="text-align: center;">your result <span id="arrow"><i class="fa-solid fa-arrow-down"></i></span></h3>
+        <h2 style="text-align: center; padding: 20px;" id="resultheading"></h2>
+
+      
+
+
+    </div>
+    
+     <h2 class="nextpagelink" onclick="render()">switch case program &#8594</h2>
+     
+    <script src="/my-js/practice-conditionals/assets/jsfile/calculator.js"></script>
+</body>
+</html>

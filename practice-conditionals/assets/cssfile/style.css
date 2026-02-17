@@ -1,0 +1,27 @@
+.common-heading{
+    text-transform: uppercase; 
+    text-align: center;
+}
+
+.nextpagelink{
+    
+    cursor: pointer;
+    width: fit-content;
+    margin: auto;
+    border:1px solid black;
+    margin-top : 2px;
+    
+}
+
+
+.calculatorbody {
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+width: 40% ;
+background: linear-gradient(rgb(255, 255, 255), rgb(200, 200, 255));
+ } 
+@media (max-width:600px){
+            .calculatorbody{
+                width:90%;
+            }
+        } 
