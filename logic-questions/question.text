@@ -1,0 +1,46 @@
+Sum of first 15 whole numbers.
+Print all Even numbers between 10-50.
+Print all Prime numbers between 5-30.
+Sum of all Even numbers between 5-30.
+Sum of all Prime numbers between 10-50.
+Print all numbers that are divisible by 5 between 5-50.
+Print all numbers that are divisible by 5 & 4 between 0-100.
+Print all even numbers that are not divisible by 5 & 4 between 0-100.
+Print all numbers that are multiple of 7 between 0-100.
+Print total count of even numbers between 20-50.
+Program to Swap Two Variables
+Program to Check if a number is Positive, Negative, or Zero
+Program to Print the Fibonacci Sequence
+Program to Check Armstrong Number
+Program to Find the Factorial of a Number
+Program to Convert Decimal to Binary
+Program to Check for Palindrome Number
+Program to Split a Number into Individual Digits
+Program to Find the Factors of a Number
+Program to Find Largest of Three Numbers
+Rooms Question
+Program to Reverse a string.
+Program to remove 3rd letter from your name.
+Program to replace space with underscore (_) from your first name and last name.
+Program to make First letter capital.
+Program to check if your name has vowels in your city/village name.
+Program to count letters in your District name.
+Program to replace all space with slash (/) from your complete address.
+Program to count no of alphabet used in string (eg: 'ajay' 3 alphabet; a,j & y)
+Program to count no of same alphabet (eg: 'ajay',  a=2; j=1; y=1)
+Program to get extension from each filename:- project_axis.pdf, coder@cutedge.com, new_project.repo.html
+Program to print last 10 digit from these numbers: +919090909090, 08989809000, 917234567899
+Program to remove all numeric values from your email.
+Program to find the second most repeated word in a sequence.
+Program to print all permutations of given string.
+Program to print two or more characters in alphabetical order.
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Program to Remove Duplicate Elements from Array
+Program to Find the Largest Number in an Array
+Program to Find the Second Largest Number in an Array
+Program to Sort Words in Alphabetical Order
+Program to Merge Two Arrays Without Creating a New Array
