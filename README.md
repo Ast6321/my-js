@@ -19,3 +19,13 @@ today -- 17/02/2026
  i got some question as task from tanish sir  
  
   </pre>
+
+  <pre>
+  today -- 18/02/2026
+
+  i take wfh for today
+  i did the questions which i get as task from tanish sir 
+  get stucked with one question which is printing a star pattern
+  so i learned and practice some patterns but no clearity
+  but tommarow i will learn and practice again the patterns  
+  </pre>
