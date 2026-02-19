@@ -1,9 +1,11 @@
 # my-js
-this is firstly created by me
+this is first repo originaly created by me
 <br>
-yay bas test karne k liyay ek change
+this is about the js journey
 <br>
-so i have tested and practiced the git commands 
+learned git and github
+<br>
+ i have tested and practiced the git commands 
 <br>
 
 
@@ -28,4 +30,26 @@ today -- 17/02/2026
   get stucked with one question which is printing a star pattern
   so i learned and practice some patterns but no clearity
   but tommarow i will learn and practice again the patterns  
+  </pre>
+
+  <pre>
+  today -- 19/02/2026
+
+  complete pending task assigned by tanish sir
+  learn some more about patterns logic
+  get task from amit sir 
+  task is to research and learn about below  topics
+<ol>
+  <li>css function</li>
+  <li>units</li>
+  <li>box-sizing property</li>
+  <li>how to change image color using css</li>
+  <li>filter property</li>
+  <li>mix blend property</li>
+</ol>
+
+i have read and take an overview on these topics
+make notes from these topics
+then continued to my js learning (patterns logic)
+ 
   </pre>
