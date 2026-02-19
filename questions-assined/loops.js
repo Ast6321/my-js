@@ -341,7 +341,25 @@ sum of numbers from 1 to 10 is : 55
  
 
 {
-    // to be continued
+
+    // let rownum= 5;
+    //  for(let i = 1; i<=rownum;i++){
+    //      let pattern="";
+    //      let inneriteration;
+    //      if(i=== rownum){
+    //         inneriteration= 3;
+    //      }
+    //      else if(i%2===0){
+    //         inneriteration=2;
+    //      }
+    //      else{
+    //         inneriteration= 1;
+    //      }
+    //      for(let j = 1; j<=inneriteration;j++){
+    //         pattern+="*"
+    //      }
+    //           console.log(pattern);
+    //  }
 }
 
 
@@ -371,9 +389,9 @@ count of numbers divisible by 5 between 1 to 100 is : 20
 //Q50-----------Print reverse numbers from 50 to 1----------------
 
 {
-    for(let i = 50; i>=1; i--){
-        console.log(i);
-    }
+    // for(let i = 50; i>=1; i--){
+    //     console.log(i);
+    // }
 
 
     /*
