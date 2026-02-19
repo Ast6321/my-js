@@ -181,8 +181,56 @@
     *****
 
 */
+
  {
-          
+
+    // for(let i =1;i<=5;i++){
+
+    //         let pattern="";
+       
+
+    //     for(let j = 1;j<=5-i;j++){
+    //         pattern+=" ";
+    //     }
+
+    //     for(let k =1;k<=i;k++){
+    //         pattern+=k;
+    //     }
+
+    //      console.log(pattern);
+    // }
  }
+
+/*
+
+
+*
+**
+*
+**
+
+ */
+
+{
+   
+//    let loopiteration =1;
+//   for(let k = 0;k<=loopiteration;k++) {
+//       for(let i = 1;i<=loopiteration+1;i++){
+//         let pattern ="";
+//         for(let j = 1;j<=i;j++){
+//             pattern += "*";
+           
+//         }
+//         console.log(pattern);
+//       }
+
+//    }    
+
+
+
+}
+
+
+
 
    
