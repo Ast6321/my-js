@@ -56,3 +56,32 @@ then continued to my js learning (patterns logic)
 
 
 <img src="https://github.com/Ast6321/my-js/blob/main/imagefor-readme/quoteimage.jpg" alt="image">
+
+<pre>
+today -- 20/02/2026
+
+get task from tarun sir 
+task is to research and understand the topics
+string and arrays
+i start with strings
+
+--learn and make notes on topics
+
+1. double quotes
+2. single quotes
+3. template string (backtics)
+4. uses and featurs of backtics(` `)
+5. make strings readable by line breaking
+6. conversion of string into object
+7. autoboxing
+8. template literals 
+9. interpolation
+10. injecting html into string and present render it on html page
+
+
+take an overview on grid also 
+ 
+ get assigned with a new task by tanish sir 
+ task is to practice some question of provided hard copy
+
+</pre>
