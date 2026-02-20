@@ -55,4 +55,4 @@ then continued to my js learning (patterns logic)
   </pre>
 
 
-<img src="/my-js/imagefor-readme/quoteimage.jpg" alt="image">
+<img src="../my-js/imagefor-readme/quoteimage.jpg" alt="image">
