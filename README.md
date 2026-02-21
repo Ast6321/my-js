@@ -85,3 +85,52 @@ take an overview on grid also
  task is to practice some question of provided hard copy
 
 </pre>
+
+<pre>
+today -- 21/02/2026
+
+carry on the strings learning
+today i have read about some string methods 
+such as 
+string methods behaviour
+string are immutable
+then proceed to methods 
+1. length property
+2. charAt()
+3. charCodeAt()
+4. codePointAt()
+5. concat()
+6. at()
+7. .[]
+8. slice()
+9. substring()
+10. substr()
+11. toUpperCase()
+12. toLowerCase()
+13. toLocaleUpperCase()
+14. toLocaleLowerCase()
+15. isWellFormed()
+16. toWellFormed()
+17. trim()
+18. trimStart()
+19. trimEnd()
+20. padStart()
+21. padEnd()
+22. repeat()
+
+  four methods remaining 
+  i will commit them soon
+
+23. replace()
+24. regular expressions /i , /g
+25. replaceAll()
+26. split()
+
+task remain for today 
+1. four topics to understand 
+2. to update the string.js file with the learning of string methods 
+
+
+
+
+</pre>
