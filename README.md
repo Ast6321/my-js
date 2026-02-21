@@ -90,7 +90,7 @@ take an overview on grid also
 today -- 21/02/2026
 
 carry on the strings learning
-today i have read about some string methods 
+today i have read about some string topics 
 such as 
 string methods behaviour
 string are immutable
