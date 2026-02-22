@@ -101,7 +101,7 @@ then proceed to methods
 4. codePointAt()
 5. concat()
 6. at()
-7. .[]
+7. []
 8. slice()
 9. substring()
 10. substr()
@@ -132,5 +132,21 @@ task remain for today
 
 
 
+
+</pre>
+
+<pre>
+today -- 22/02/2026
+
+i have 2 pending tasks
+
+i have updated the string.js file with string learning 
+it helps me to revise the string and methods 
+
+4 topics are remained to be cover 
+i update 2 topics replace() and replaceAll() in my knowledge and string.js file 
+now 
+two topics are remained to understand and to notedown in string.js file
+will cover tommarow 
 
 </pre>
