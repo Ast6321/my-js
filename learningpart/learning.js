@@ -67,34 +67,40 @@ to bhai aage hamko eski bahut jarurat padne wali h
 to chlo samj lete h 
 
 to bhai mujhay yay pta chla ki jab ham number may string ko add karte h to vo bhi string ban jata h
-or chhe string may number ko add karo to wo bhi string hi return karta h  
+or chhe string may number ko add karo to wo bhi string hi return karta h 
+
+
+yay sab examples atpte lag rhe honge 
+esa esliya h ki m har possible chij ko try kar rha hu console kar kar k
+esliyay examples jitne ho ske khud say try kar k dekho 
+
 {
 let num=12;
-console.log(num)  //12
+console.log(num) // 12 
 let str="a";
 num+=str
-console.log(typeof num + " " + num)  //1212
+console.log(typeof num )  // string
 }
 {
 let num=10;
-console.log(num)  //12
+console.log(num) 
 let str="a";
 str+=num
-console.log(typeof str + " " + str)  //1212
+console.log(typeof str)  
 }
 
 */
 
 /*
 ha to ab baat karte h ki ham number ko string may kaise badal sakte h 
-to eske liyay koi jyada bhadak nhi leni h eske liyay string ka ek inbuilt method hota h toString() ham number k baad .toString() likh k usko string may badal skte h
+to eske liyay koi jyada bhadak nhi leni h eske liyay number ka ek inbuilt method hota h toString() ham number k baad .toString() likh k usko string may badal skte h
 
 
 {let num=12;
-console.log(num)  //12
-console.log(typeof num + " " + num)  //number 12
+console.log(num)  
+console.log(typeof num )  
 num=num.toString()
-console.log(typeof num + " " + num)  //string 12
+console.log(typeof num )  
 }
 
 */
@@ -451,3 +457,7 @@ yay questions karne k baad m string topic ko cover karunga
  maine string k liyay alag say file bna di h 
  string.js karke vhi par padhenge string
 */
+
+
+
+
