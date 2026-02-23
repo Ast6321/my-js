@@ -723,8 +723,53 @@ abhi k liya tum esko ek half code maan lo kisi emoji ka
 
  
  }
+ 
 
+ 25. regular expresions
+
+ abhi m aapko batata hu kuch regular expresions k baare may
+ regular expresions kuch special property h 
+ waise to bahut saari regular expresion hoti h
+ lekin ham sirf do expresion ka use dekhenge 
+ kai baar hamko problem aati h ki ham chote or bade letters ka dhyan nhi rakhte h 
+ esay replace jasie methods kaam nhi karte h kyuki vo case sensitive hote h 
+ to esay may ham es problem ko ek regular expresion say khatam kar sakte h 
+ regular expresions (/ string /i )
+ esay likhi jaati h
+ yha slash k baad ham i , g , m etc or bhi bahut saare regular expressions hoti h 
+ i ka matlab hota h case senstivity ko khatam karna
+ g ka matlab hota h yay replaceAll jaisa kaam karti h 
+ jis string ko ham g wali regular expresion may rakhenge uska matlab h har match ko replace kar do 
+ bhai try to aap ko khud hi karna padega 
+ koi nhi  try to karo 
+ replaceAll may bhi try karna or replace may bhi try karna 
+ replaaceAll may agr ham regular expresion ka use karenge to ham g wali to mandatory likhni hi padegi
+ or ek baat or 
+ regular expressions ko ham without quotes likhte h 
+
+26. split()
+
+yay method hamari string ko array bna deta  h 
+es method ki paranthesis may ham seperator ko likhte h 
+seperator ka matlab koi esa character jiske behalf par ham 
+apne string k alag alag elements ko define kar sake 
+eske saath saath ham us paranthesis may array ki length bhi daal sakte h
+ki hamko kis length ka array chahiya 
+agr ham koi separtor pass nhi karenge to method string k har character ko ek array ka element bna dega 
+eske alawa bhi bahut kuch h batane ko 
+par jab aap ek baar khud say research karoge or try karoge to bahut saarichije aapko samaj  aayengi 
+
+{
+
+//   let name = "ankit,rahul,ram";
+// let array = name.split(",");
+// console.log(array);
+}
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+[ 'ankit', 'rahul', 'ram' ]
+
+[Done] exited with code=0 in 0.233 seconds
  
 */
 
- 
