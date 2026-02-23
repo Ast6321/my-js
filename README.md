@@ -150,3 +150,30 @@ two topics are remained to understand and to notedown in string.js file
 will cover tommarow 
 
 </pre>
+
+
+<pre>
+today -- 23/02/2026
+
+attend a meeting session with amit sir and mohit sir (regarding internship program joining for my friends) 
+i take half day leave 
+completed the pending tasks 
+complete the four remaining methods
+learn new string searching methods 
+
+1. indexOf()
+2. lastIndexOf()
+3. search()
+4. match()
+5. matchAll()
+6. includes()
+7. startsWith()
+8. endsWith()
+
+string topic is almost coverd 
+
+pending work 
+
+to update my string.js file with new methods (search methods of string)
+
+</pre>
