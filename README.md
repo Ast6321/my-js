@@ -177,3 +177,17 @@ pending work
 to update my string.js file with new methods (search methods of string)
 
 </pre>
+
+<pre>
+today -- 24-02-2026
+
+attend a meating with tarun sir 
+get tasks and guidence from tarun sir
+task is to build logic by patterns questions 
+after meating
+connect with prince to tell him about github and git commands
+currently working on patterns question
+after that 
+array will start.
+
+</pre>
