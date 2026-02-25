@@ -191,3 +191,19 @@ after that
 array will start.
 
 </pre>
+
+<pre>
+
+today -- 25/02/2026
+
+solve some more patterns question 
+continously making the logical thinking
+get stucked most of time 
+but practicing with Consistency
+also 
+connect with anjali 
+discuss grid concept with her 
+then continue the patterns question 
+
+
+</pre>
