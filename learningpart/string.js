@@ -455,6 +455,21 @@ aage badhte  h
  }
 
 
+ mujhay pta nahi ek gaana yaad aa rha h 
+
+ pal pal dil k pass tum rhti ho
+ tum sochogi ki kyu etna m tumse pyar kru
+ tum samjhogi dewana m bhi iqrar karu
+ dewano ki yay baate dewane jaante h 
+ jalne may kya mja h parwane jaante h
+ tum yu hi jalate rhna aa kar khwabo may 
+ pal pal dil k pass tum rhti ho
+
+ badhiya gaana h 
+ 
+ lets move on topic
+
+
 10. substr()
    
    yay method bhi slice or substring ki trah hi string part ko extract kar k deta h 

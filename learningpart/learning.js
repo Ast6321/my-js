@@ -397,11 +397,18 @@ while(i<=10)
 
 to yay teen loops h enka estemaal karke ham thode intersting question bhi karenge 
 
-ha waise loops or bhi hoti h 
+ha waise loops or bhi hoti h
 jaise for in , for of,for each   or bhi bahut kuch lekin enko ham baad may karenge 
+kyuki yay thodi advance h unko iterations karte wakt padhenge 
+abhi ham in simple loops ko hi padhenge 
+simple say yaad aaya 
 
+achi surat ko swarne ki jarurat kya h 
+saadgi may bhi qyamat ki ada hoti h ..
 
-loops say related do topics or hotay h 
+chlo chhodo..
+
+loops say related kuch topics or hotay h 
 wo bhi bta deta hu 
 ek hota h break keyword 
 or dusra h continue keyword 
