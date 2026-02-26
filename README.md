@@ -207,3 +207,13 @@ then continue the patterns question
 
 
 </pre>
+
+<pre>
+
+today -- 26/02/2026
+
+continue pattern solving question 
+start the topic array 
+today just get introduced with array
+
+</pre>

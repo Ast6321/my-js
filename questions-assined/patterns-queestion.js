@@ -375,3 +375,46 @@
     //     console.log(pattern);
     // }
 }
+
+
+
+// 14th question
+
+/*
+
+printing alphabet by ascii values
+
+*/
+
+{
+
+
+    // let charnum =7;
+    // let row = Math.floor(26/charnum)+1;
+    // let val =65;
+    // let endval =91;
+    //       for(let i = 1;i<=row;i++){
+    //     let pattern = "";
+    //     for(let j = 1;j<=charnum;j++){
+    //         if(val===endval){
+    //             break;
+    //         }
+            
+    //          pattern+= String.fromCharCode(val) + " ";
+    //          if(val===65|| val=== 69 || val=== 73 || val=== 79 || val===85){
+    //             pattern+=": is a vowel  "
+    //          }
+    //          else{
+    //             pattern+= ": is a consonent  "
+    //          }
+    //          val = val+1;
+           
+    //     }
+    //     console.log(pattern);
+    // }
+
+
+}
+
+
+
