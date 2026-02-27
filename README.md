@@ -246,8 +246,3 @@ do research on these methods and learn about them
 
 
 </pre>
-<fieldset style= "text-align:center">
-<legend>Today's lesson</legend>
-Your time will teach you everything<br>
-just don't forget to learn from it.
-</fieldset>
