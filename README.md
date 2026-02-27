@@ -217,3 +217,36 @@ start the topic array
 today just get introduced with array
 
 </pre>
+
+<pre>
+
+today -- 27/02/2026
+
+today learn about some array methods
+1. Array length
+2. Array toString()
+3. Array at()
+4. Array join()
+5. Array pop()
+6. Array push()
+7. Array shift()
+8. Array unshift()
+9. Array isArray()
+10. Array delete()
+11. Array concat()
+12. Array copyWithin()
+13. Array flat()
+14. Array flatMap()
+15. Array slice()
+16. Array splice()
+17. Array toSpliced()
+
+do research on these methods and learn about them 
+
+<fieldset style= "text-align:center">
+<legend>Today's lesson</legend>
+Your time will teach you everything 
+just don't forget to learn from it.
+</fieldset>
+
+</pre>
