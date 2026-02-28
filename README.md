@@ -246,3 +246,24 @@ do research on these methods and learn about them
 
 
 </pre>
+
+<details title="click me">
+<summary> Today' lesson (28/02/2026)</summary>
+<pre>
+Time will teach you everything 
+just don't forget to learn from it.
+</pre>
+
+</details>
+
+<pre>
+today -- 28/02/2026
+
+today i take leave because of an unavoidable work at home
+update resume and fill up a google form provide by amit sir
+try to carry on my pending work (update string.js file with new search methods)
+but today no consistency maintained beacause of work at home
+tommarow i will update the string.js file 
+
+
+</pre>

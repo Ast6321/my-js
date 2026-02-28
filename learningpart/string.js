@@ -789,9 +789,61 @@ par jab aap ek baar khud say research karoge or try karoge to bahut saarichije a
 
 
 
+now lets checkout some searching methods of string
+
+
+1. indexOf()
  
+yay method hamko basicaly hamare dwara provided string ka first match ka index provide karta h
+string case sensitive hoti h esliay spell vagera sab sahi likhe 
+match na milne par yay -1 return karta h 
+ham esko starting index de sakte h 
+starting index dene say ham usko apne diyay gaye index k baad phle search match ka index de sakte h 
+
+
+
+let str = "Hlo my name is Ankit";
+let result = str.indexOf("Ankit");
+console.log(result);
+
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+15
+
+[Done] exited with code=0 in 0.139 seconds
+
+
+practice is important to practice karte rhna h ...
+
+
+2. lastIndexOf()
+
+yay method bhi hamare liya provided string ka match ka index hi find karke deta h 
+lekin yay bas last match ko return karta h 
+agar match na mile to -1 return karta  h 
+esamy bhi ham index pass karte h lekin esmay vo index as last index treat hota h 
+or us particular index say phle jo last match hoga uska index return hoga 
+
+let str = "Hlo Ankit my Ankit name is Ankit";
+let result = str.lastIndexOf("Ankit" , 18);
+console.log(result);
+
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+13
+
+[Done] exited with code=0 in 0.217 seconds
+
+
+
+
+
+
+
 */
 
 
-
+let str = "Hlo Ankit my Ankit name is Ankit";
+let result = str.lastIndexOf("Ankit" , 18);
+console.log(result);
 
