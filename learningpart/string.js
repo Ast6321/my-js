@@ -835,15 +835,174 @@ console.log(result);
 [Done] exited with code=0 in 0.217 seconds
 
 
+3. search()
+
+yay method bhi indexOf method ki trah hi hamko hamre dwara provided string match ka index deta h 
+baaki sab to indexOf jaisa hi h 
+lekin kuch differences h jaise 
+indexOf may ham starting index provide karte h 
+yay kaam search method may nhi ho sakta h 
+or jaise 
+indexOf method may ham regex flag nhi lga sakte 
+search method may ham regex flags lga sakte h or powerfull searches jaise bina case senstivity 
+or glaobaly search kar sakta h 
+regex without string likhi jaati h 
+
+let str = "Hlo my Ankit name is Ankit";
+let result = str.search(/ankit/i);
+console.log(result);
+
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+7
+
+[Done] exited with code=0 in 0.125 seconds
+
+
+4. match()
+
+yay method hamko hamare dwara provided string ko match kar k unka ek array bna deta h 
+or us match ki details ka array bnata h 
+es array may 
+matched element 
+uska index
+uski input string
+or groups agar defined h to vo
+yay regex ko allowed karta h
+without regex k yay hamko first match hi deta h 
+bas es baat ka dhyan rakhna h ki yay array return karta h 
+match na milne par yay hamko null provide karta h 
+
+
+let str = "Hlo my Ankit name is Ankit";
+let result = str.match(/ankit/ig);
+console.log(result);
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+[ 'Ankit', 'Ankit' ]
+
+[Done] exited with code=0 in 0.141 seconds
+
+
+let str = "Hlo my Ankit name is Ankit";
+let result = str.match("Ankit");
+console.log(result);
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+[
+  'Ankit',
+  index: 7,
+  input: 'Hlo my Ankit name is Ankit',
+  groups: undefined
+]
+
+[Done] exited with code=0 in 0.129 seconds
 
 
 
+5. matchAll()
+
+yay method bhi hamko match elements return karta h 
+par yay hamko array nhi itertor return karta h
+matlab yay hamko sidha sidha array nhi dega ek iterating object provide karta h 
+jisko hame iterate karna hoga ya to loops say ya to spread operator say 
+tabhi ham result dekh paayenge 
+yay sabhi matches ko match karta h 
+agr esmay ham regex flag lagana chahte h to 
+to hamko g flag to lagana hi padega
+
+
+
+let str = "Hlo my Ankit name is Ankit";
+let result = str.matchAll("Ankit");
+console.log(...result);
+
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+[
+  'Ankit',
+  index: 7,
+  input: 'Hlo my Ankit name is Ankit',
+  groups: undefined
+] [
+  'Ankit',
+  index: 21,
+  input: 'Hlo my Ankit name is Ankit',
+  groups: undefined
+]
+
+[Done] exited with code=0 in 0.129 seconds
+
+
+6. includes()
+
+yay method hamko ek boolean value return karta  h 
+or check karta h ki kya hamre input may vo match h ya nhi 
+regex ko yay allowed nhi karta h 
+esliya spelling k khas dhyan rakhe 
+starting index ko allow karta h serching k liya 
+
+
+let str = "Hlo my ankit name is ankit";
+let result = str.includes("ankit");
+console.log(result);
+
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+true
+
+[Done] exited with code=0 in 0.135 seconds
+
+
+7. startsWith()
+
+yay method check  karta h ki koi particular string kya provided match say start h ya nhi 
+or boolean value return karta h 
+esamy m starting index bhi de sakta hu 
+ 
+let str = "Hlo my ankit name is ankit";
+let result = str.startsWith("my" ,4);
+console.log(result);
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+true
+
+[Done] exited with code=0 in 0.197 seconds
+
+
+8.endsWith()
+
+yay method hamko yay batata h ki kya koi particular string provided string match say end hoti h ya nhi 
+yay bhi boolean value return karta h
+
+
+let str = "Hlo my ankit name is ankit";
+let result = str.endsWith("ankit",12);
+console.log(result);
+
+[Running] node "d:\mygithub\my-js\learningpart\string.js"
+true
+
+[Done] exited with code=0 in 0.235 seconds
+
+
+
+so thik h esi ka saath hamne string ko aaj kar hi liya .
+
+
+abhi ham array ko start karenge 
+lekin ab say ham thoda learning strategis ko change karenge 
+abse ham jyada deep dive nhi karenge 
+jitna important h next step lene k liyay bas utna hi padhenge 
+
+to array k liyay ek alag say file bnate  h or start karte h 
+
+
+let's go.................
 
 
 */
 
 
-let str = "Hlo Ankit my Ankit name is Ankit";
-let result = str.lastIndexOf("Ankit" , 18);
-console.log(result);
+
 

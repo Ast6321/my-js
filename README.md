@@ -267,3 +267,24 @@ tommarow i will update the string.js file
 
 
 </pre>
+
+<details title="click me">
+<summary> Today' lesson (01/03/2026)</summary>
+<pre>
+Set your heart upon your work but never on its reward.
+</pre>
+
+</details>
+
+<pre>
+today -- 01/03/2026
+
+today complete the pending work (update string.js file with methods)
+change the learning stratgies
+now just focus on essential points which are capable to be the base of next step 
+start array with new study module
+still loosing the consistency and dedication 
+but always trying to learn new things 
+push the work everyday on github
+
+</pre>
