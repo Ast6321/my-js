@@ -288,3 +288,26 @@ but always trying to learn new things
 push the work everyday on github
 
 </pre>
+
+
+<details title="click me">
+<summary> Today' lesson (02/03/2026)</summary>
+<pre>
+       Trust in the god with all your heart.
+</pre>
+
+</details>
+
+<pre>
+today -- 02/03/2026
+
+today just relaxed whole the day 
+get back to my beautiful memories and beautiful past.
+today i just don't remember my past -- I lived it again.
+
+so that's all for today 
+
+        🫧🌈🔫🫟Happy holi 🫟🔫🌈 🫧
+
+
+</pre>
