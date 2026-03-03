@@ -311,3 +311,24 @@ so that's all for today
 
 
 </pre>
+
+<details title="click me">
+<summary> Today' lesson (03/03/2026)</summary>
+<pre>
+       There is something behind everything.
+</pre>
+
+</details>
+
+<pre>
+today -- 03/03/2026
+
+
+today celebrate holika dahan 
+relax whole day 
+nothing read and learn regards js learning
+
+
+
+
+</pre>
