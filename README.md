@@ -328,7 +328,24 @@ today celebrate holika dahan
 relax whole day 
 nothing read and learn regards js learning
 
+</pre>
+
+<details title="click me">
+<summary> Today' lesson (04/03/2026)</summary>
+<pre>
+    patience is the solution to everything.
+</pre>
+
+</details>
+
+<pre>
+today -- 04/03/2026
 
 
+today celebrate the festival of colours  
+enjoy whole day 
+nothing read and learn regards js learning
+just collecting the memories 
+enjoy every moment..
 
 </pre>
