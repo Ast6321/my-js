@@ -365,3 +365,21 @@ No work today.
 
 
 </pre>
+
+<details title="click me">
+<summary> Today' lesson (06/03/2026)</summary>
+<pre>
+    if you don't fight for what you want 
+    don't cry for what you lost..
+</pre>
+
+</details>
+
+<pre>
+today -- 06/03/2026
+
+update array.js file 
+complete the array topic (only necessary things which are base for nodejs )
+learn and practice the array methods
+
+</pre>
