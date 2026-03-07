@@ -383,3 +383,22 @@ complete the array topic (only necessary things which are base for nodejs )
 learn and practice the array methods
 
 </pre>
+
+<details title="click me">
+<summary> Today' lesson (07/03/2026)</summary>
+<pre>
+    Do more what makes you happy.
+</pre>
+
+</details>
+
+<pre>
+today -- 07/03/2026
+
+today complete the array 
+learn about destructuring and make documentation on it in the destructure.js file 
+learn about spread and rest operator 
+identify similarites and understand the difference in it 
+today is half day for everybody.
+
+</pre>
