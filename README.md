@@ -248,7 +248,7 @@ do research on these methods and learn about them
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (28/02/2026)</summary>
+<summary> Today's lesson (28/02/2026)</summary>
 <pre>
 Time will teach you everything 
 just don't forget to learn from it.
@@ -269,7 +269,7 @@ tommarow i will update the string.js file
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (01/03/2026)</summary>
+<summary> Today's lesson (01/03/2026)</summary>
 <pre>
 Set your heart upon your work but never on its reward.
 </pre>
@@ -291,7 +291,7 @@ push the work everyday on github
 
 
 <details title="click me">
-<summary> Today' lesson (02/03/2026)</summary>
+<summary> Today's lesson (02/03/2026)</summary>
 <pre>
        Trust in the god with all your heart.
 </pre>
@@ -313,7 +313,7 @@ so that's all for today
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (03/03/2026)</summary>
+<summary> Today's lesson (03/03/2026)</summary>
 <pre>
        There is something behind everything.
 </pre>
@@ -331,7 +331,7 @@ nothing read and learn regards js learning
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (04/03/2026)</summary>
+<summary> Today's lesson (04/03/2026)</summary>
 <pre>
     patience is the solution to everything.
 </pre>
@@ -351,7 +351,7 @@ enjoy every moment..
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (05/03/2026)</summary>
+<summary> Today's lesson (05/03/2026)</summary>
 <pre>
     It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.
 </pre>
@@ -367,7 +367,7 @@ No work today.
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (06/03/2026)</summary>
+<summary> Today's lesson (06/03/2026)</summary>
 <pre>
     if you don't fight for what you want 
     don't cry for what you lost..
@@ -385,7 +385,7 @@ learn and practice the array methods
 </pre>
 
 <details title="click me">
-<summary> Today' lesson (07/03/2026)</summary>
+<summary> Today's lesson (07/03/2026)</summary>
 <pre>
     Do more what makes you happy.
 </pre>
@@ -400,5 +400,25 @@ learn about destructuring and make documentation on it in the destructure.js fil
 learn about spread and rest operator 
 identify similarites and understand the difference in it 
 today is half day for everybody.
+
+</pre>
+
+<details title="click me">
+<summary> Today's lesson (08/03/2026)</summary>
+<pre>
+   it is our mind 
+   who is our friend as well as our enemy 
+   if you control your mind then it is your friend
+   if your mind controls you it is your enemy.
+</pre>
+
+</details>
+
+<pre>
+today -- 08/03/2026
+
+No work today.
+enjoy the sunday.
+
 
 </pre>
