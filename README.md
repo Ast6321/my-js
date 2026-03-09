@@ -422,3 +422,30 @@ enjoy the sunday.
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (09/03/2026)</summary>
+<pre>
+  live your life with your own rules ..
+</pre>
+
+</details>
+
+
+<pre>
+today -- 09/03/2026
+
+first connect with vikas tell him about git and github 
+also help him to take an quick overview on html
+then start functions in javascript
+learn and understand 
+function declaration
+function parameters , arguments 
+return statments 
+arrow function 
+
+get new task from amit sir 
+task is to research and develop rest api integration also connectivity of database 
+
+
+</pre>
