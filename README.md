@@ -449,3 +449,33 @@ task is to research and develop rest api integration also connectivity of databa
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (10/03/2026)</summary>
+<pre>
+agar aapki jindgi may aapki marji ka kuch nhi ho rha 
+to dukhi mat hoiyay 
+kyuki jo ho rha h vo bhagwan ki marji say ho rha h 
+or vo kabhi bhi glat nhi hoga  
+
+</pre>
+
+</details>
+
+<pre>
+today -- 10/03/2026
+
+today worked on assigned task that is api integration
+so research on api and practice the api 
+learn and understand the rest api of get method 
+make a json file and add some data in json format 
+then with the help of get method api 
+show the result on routes 
+make two routes 
+one for whole users 
+2nd one is a dynamic route for specific user  specified with id 
+
+next 
+i will proceed to post api tommarow 
+
+</pre>
