@@ -479,3 +479,38 @@ next
 i will proceed to post api tommarow 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (11/03/2026)</summary>
+<pre>
+don't depend on anyone 
+you are your best partner ,best teacher,best friend
+you are your everything.. 
+
+</pre>
+
+</details>
+
+<pre>
+today -- 11/03/2026
+
+today i proceed to post api 
+learn crud operation 
+which is to create data 
+read data 
+update data 
+delete data 
+
+for these operation 
+i research and use the queries 
+like post ,put ,patch,delete 
+first perform with manualy provided data 
+after that research to get data from client 
+setup thunder client extension in vscode 
+that is my client for giving data
+
+slowly slowly understanding the api working and backend working 
+next i will understand and research for the database connectivity
+
+
+</pre>
