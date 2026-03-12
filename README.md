@@ -514,3 +514,39 @@ next i will understand and research for the database connectivity
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (12/03/2026)</summary>
+<pre>
+
+feelings are silent 
+but to feel the feelings you have to give them words.
+
+</pre>
+
+</details>
+
+<pre>
+today -- 12/03/2026
+
+today update the crud operation api 
+make full dynamic 
+test almost every possibility
+code working perfectly
+
+research to get data from frontend
+find that to get data from frontend 
+we must have the knowledge of 
+fetch api 
+async await 
+promises
+frontend backend connectivity
+
+so next step is to clear and understand these topics 
+
+today i heard an audiobook of a very famous hindi (upanyaas)
+that is "GUNAHO KA DEVTA".
+realy soul touching story . i enjoyed it.
+
+
+</pre>
