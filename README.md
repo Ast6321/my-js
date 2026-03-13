@@ -550,3 +550,35 @@ realy soul touching story . i enjoyed it.
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (13/03/2026)</summary>
+<pre>
+don't make attachments 
+detachments hurts the most..
+</pre>
+
+</details>
+
+<pre>
+today -- 13/03/2026
+
+today try to clear topics from videos 
+watch videos for topics 
+asynchronous code
+setTimeout()
+callbacks
+callback hell 
+promises
+promises chaining
+.then()
+.catch()
+async await
+fetch api using fetch method
+also watch and observe the functionality through a little project currency convertor
+
+these topics are a little bit complex to understand but important for api
+so today just struggled with these topics 
+tommarow i will try again 
+
+</pre>
