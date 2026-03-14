@@ -1001,8 +1001,4 @@ to array k liyay ek alag say file bnate  h or start karte h
 let's go.................
 
 
-*/
-
-
-
-
+*/    

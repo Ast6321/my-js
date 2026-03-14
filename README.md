@@ -582,3 +582,35 @@ so today just struggled with these topics
 tommarow i will try again 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (14/03/2026)</summary>
+<pre>
+love but don't depend
+give but don't expect
+enjoy but don't attach
+care but don't control
+apologize but don't beg
+</pre>
+
+</details>
+
+<pre>
+today -- 14/03/2026
+
+losing focus 
+losing dedication
+losing dicipline
+but strugling to be consistent 
+try to ignoring distractions
+
+ try to restudy and research the topics again 
+ document the 
+ callback function 
+ asynchronous code 
+ callback hell
+
+ tommarow will complete the topics 
+
+
+</pre>

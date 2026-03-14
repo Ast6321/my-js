@@ -359,7 +359,106 @@ i hope ki arrow function aapko samj aaya hoga
 baaki aap ko or samjna h to practice kar lena 
 
 
+
+
+
+
+
+
+// callback function 
+
+yay function vo function hotay jo kisi dusre function ko callback k rup may diya jaate h 
+matlab function k argument may agar koi function h to usko ham callback bolenge 
+esay nhi ek example dekhte h 
+
+
+{
+    function learn (callback){
+        console.log("i am learning");
+        callback();
+    }
+
+    function read(){
+        console.log("i am reading");
+    }
+
+    learn(function(){read();});
+
+
+    [Running] node "d:\mygithub\my-js\learningpart\function.js"
+i am learning
+i am reading
+
+[Done] exited with code=0 in 0.131 seconds
+
+ab es code may maine ek read waly function ko as argument k tor par learn function ko de diya 
+matlab internaly kya hua ki read function ko maine laarn k paranthesis may diya h matlab arguments may diya h 
+yay position reference k logic say learn function k parameter callback may chala gya 
+or us learn function k ander ek console statement h or uske baad us parameter k function ko call ki hui h hamne 
+jisay phle console wali value print hui then callback function run hua or uski value print ho gai
+
+
+to yay to hamne sikha ki callback function kya hota h 
+
+lekin eska ek question yay bnta h ki hamko yay sab karne ki jarurat hi kya h 
+yay kaam ham sidha sidha dono function ko alag alg likh k kar sakte h 
+matlab one by one call karke bhikar sakte h
+
+to ha bhai esy normal function may hamko enki jarurat nhi h 
+to hame inki jarurat kha padti h 
+hamko inki jarurat kha padegi 
+
+to bhai aapne ek term suni hogi 
+
+asynchronous code 
+
+yay ek esa code hota h jo call stacks ko follow nhi karta h
+matlab yay js code ka ek esa hissa h jo kisi specific condition k baad run hota h 
+
+generaly api ya khi say data fetch karna ya kisi file ko read karna ya datbase ki query vagera vagera 
+yay kaam esay hote h ki kuch time lete h 
+or js hamari single threaded language h 
+call stack ko follow karti h 
+line by line code ko execute karti hui chalti h
+or jab tak phla code execute nhi hota dusre par nhi jaati h 
+
+ab maan lo ki call stack k bich may koi asynchronous code h or usko maan k chlo 2 sec lagenge to kya 
+bachi hui js us code k execute honay tak ka wait karegi
+nhi esa  nhi hoga js esay code ko webapis ko de deti h 
+web api un codes ko ek queue may bhej deti h 
+or eventloops un codes ko call stack khali hone par stack may bhej deti h or then js un ko bhi execute kar deti h 
+
+to m ab aata hu main baat par ki callback esmay kya karega 
+to callback hamre liyay us queue ko stack karega hamko control dega us queue ko manage karne k liyay
+us queue may phle kon jaaye or uske baad kon jaaye 
+un sab ka management ham callback ki madad say karte h 
+
+lekin es callback ki technique may ek nuksaan yay h ki hamae function k argument may function
+likhna padta h then uske argument may ek or function then uske argument may ek or function
+
+or es trah say agar jyada step ho jaye to bahut saare nested callbacks ho jaayenge
+jo dekhne may bahut drawne lagte h
+or readable bhi nhi hote h 
+
+
+enhi bhaut saare nested callbacks ko ham callback hell bolte  h 
+to ham jyadataar es say bachne ki koshish karte h 
+to agar essay bachna h to kya karay 
+to bhai developers nay ek nya tarika nikala 
+
+jisko bolte h promises
+
+aaj to nhi lekin agle episode may ham janenge ki promise kya hota h 
+kyu esay developers ka masiha khte h 
+
+janne k liyay jude rhe hamare sath 
+journey of js at my-js 
+
+
+}
 */
+
+
 
 
 
