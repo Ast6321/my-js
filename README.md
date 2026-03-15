@@ -614,3 +614,20 @@ try to ignoring distractions
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (15/03/2026)</summary>
+<pre>
+life is precious 
+so live every moment 
+moments will never come again
+</pre>
+
+</details>
+
+<pre>
+today -- 15/03/2026
+
+no work today..
+
+</pre>
