@@ -631,3 +631,34 @@ today -- 15/03/2026
 no work today..
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (16/03/2026)</summary>
+<pre>
+patience is good 
+but
+patience have limits
+</pre>
+
+</details>
+
+<pre>
+today -- 16/03/2026
+
+today complete the pending topics 
+such as promises 
+promises chaning
+async await
+today make an another repo for a little project
+it consist frontend as well as backend 
+frontend have a form 
+on submit the form 
+the details add in the database
+and also show in the htmlpage 
+
+after understanding the basics i integrate image uploading also to the form 
+this is a great learning experience
+but still there are various things to learn
+so learning is going on 
+
+</pre>
