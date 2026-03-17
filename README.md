@@ -662,3 +662,27 @@ but still there are various things to learn
 so learning is going on 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (17/03/2026)</summary>
+<pre>
+communication is very important 
+lack of communication gives birth to infinte possibilites 
+but no clarity in any possibility
+</pre>
+
+</details>
+
+<pre>
+today -- 17/03/2026
+
+today understand the basics of express 
+learn about modules
+middlewares
+and app object of express 
+fix the issues found in api
+making comfortable to myself with backend 
+tommarow will understand again the frontend part
+and tommarow will take an overview on mongodb
+
+</pre>
