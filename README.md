@@ -686,3 +686,26 @@ tommarow will understand again the frontend part
 and tommarow will take an overview on mongodb
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (18/03/2026)</summary>
+<pre>
+don't try to hold anyone or anything
+if it is your's 
+it will never go anywhere 
+</pre>
+
+</details>
+
+<pre>
+today -- 18/03/2026
+
+understand a little bit logic of frontend relation to backend 
+after that start learning mongodb 
+research and study from youtube videos , documents and also from chatgpt 
+a little bit struggling to understand this mongodb
+i will take time to understand this 
+tommarow i will try again
+
+
+</pre>
