@@ -742,3 +742,25 @@ it have all the updates regarding the database learning
 
 
 </pre>
+
+<details title="click me">
+<summary> Today's lesson (20/03/2026)</summary>
+<pre>
+sometimes failure are better than success 
+sometimes loss is better than benifit
+sometimes to lose something is better than to achieve something
+</pre>
+
+</details>
+
+<pre>
+today -- 20/03/2026
+
+today proceed to remaining crud operations 
+learn the architecture and structure of post and put and patch and delete api 
+test the api 
+everything is working 
+but still it is just like introduction.
+learning is going on.
+
+</pre>
